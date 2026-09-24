@@ -61,11 +61,3 @@ java Main
 4. Mostrar Pedido Actual -> Hawaiana (Piña, Jamon, Queso)
 ```
 
-## Capturas de pantalla de la consola
-_(Pega aquí las capturas de pantalla de la ejecución del programa)_
-
-## Video de sustentación
-_(Pega aquí el link del video: YouTube, Drive o GitHub)_
-
-## Autores
-- [Nombre completo aquí]

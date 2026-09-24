@@ -1,4 +1,4 @@
-// Coordina las dos pilas del sistema Undo/Redo de Pizza-Track.
+// Cordina las dos pilas del sistema Undo/Redo de Pizza-Track.
 public class GestionPedidos {
 
     private Pila<Pizza> pilaPrincipal;  // Pedidos activos (permite Undo)

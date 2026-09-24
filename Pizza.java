@@ -1,7 +1,7 @@
 public class Pizza {
 
     private String nombre;
-    private String[] ingredientes; // arreglo de tamaño fijo (3)
+    private String[] ingredientes; // arreglo de tamaño fijo
 
     public Pizza(String nombre, String[] ingredientes) {
         this.nombre = nombre;

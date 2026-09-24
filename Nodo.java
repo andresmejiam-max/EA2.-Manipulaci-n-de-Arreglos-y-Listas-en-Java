@@ -1,4 +1,4 @@
-// Nodo de una lista ligada: guarda un dato y una referencia (puntero) al siguiente nodo.
+// Nodo de una lista ligada: guada un dato y una referencia (puntero) al siguiente nodo.
 public class Nodo<T> {
 
     T dato;
