@@ -61,3 +61,15 @@ java Main
 4. Mostrar Pedido Actual -> Hawaiana (Piña, Jamon, Queso)
 ```
 
+## Capturas de pantalla de la consola
+![Registro de pedidos](capturas/captura1_registro.jpg)
+![Pedido actual y Deshacer](capturas/captura2_actual_deshacer.jpg)
+![Rehacer y pila vacía](capturas/captura3_rehacer_vacio.jpg)
+
+## Video de sustentación
+- [Video (archivo)](https://drive.google.com/file/d/1aeGIjj1XLo4QEjdt0xEucCG2TEyBKdmY/view?usp=drive_link)
+- [Video (carpeta en Drive)](https://drive.google.com/drive/folders/1vC6OcTw32Rirh1aUvQF4bNJyeP9tcPKV)
+
+## Autores
+- Andrés Mejía
+
